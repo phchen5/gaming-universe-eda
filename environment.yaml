@@ -1,0 +1,12 @@
+name: gaming-universe-eda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - ipykernel
+  - jupyterlab
+prefix: /Users/benchen/miniconda3/envs/gaming-universe-eda
